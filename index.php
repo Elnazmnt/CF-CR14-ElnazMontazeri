@@ -61,27 +61,27 @@ mysqli_close($connect);
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">
+          <a class="nav-link active" aria-current="page" href="index.php">
               <h5 style="color: black; font-family:'Acme', sans-serif" >Home</h5>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">
+          <a class="nav-link active" aria-current="page" href="aboutUs.php">
               <h5 style="color: black; font-family:'Acme', sans-serif" >About Us</h5>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">
+          <a class="nav-link active" aria-current="page" href="contactUs.php">
               <h5 style="color: black; font-family:'Acme', sans-serif" >Contact Us</h5>
           </a>
         </li>
         </div>
         <div class="justify-end">
-        <a href="displayAll.php"><button type="button" class="btn btn-outline-dark" >
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-percent" viewBox="0 0 16 16">
-  <path d="M13.442 2.558a.625.625 0 0 1 0 .884l-10 10a.625.625 0 1 1-.884-.884l10-10a.625.625 0 0 1 .884 0zM4.5 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm7 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/>
-</svg>  
-        Special offer for Black Friday</button></a>
+        <a href="displayAll2.php"><button type="button" class="btn btn-outline-dark" >
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-braces" viewBox="0 0 16 16">
+  <path d="M2.114 8.063V7.9c1.005-.102 1.497-.615 1.497-1.6V4.503c0-1.094.39-1.538 1.354-1.538h.273V2h-.376C3.25 2 2.49 2.759 2.49 4.352v1.524c0 1.094-.376 1.456-1.49 1.456v1.299c1.114 0 1.49.362 1.49 1.456v1.524c0 1.593.759 2.352 2.372 2.352h.376v-.964h-.273c-.964 0-1.354-.444-1.354-1.538V9.663c0-.984-.492-1.497-1.497-1.6zM13.886 7.9v.163c-1.005.103-1.497.616-1.497 1.6v1.798c0 1.094-.39 1.538-1.354 1.538h-.273v.964h.376c1.613 0 2.372-.759 2.372-2.352v-1.524c0-1.094.376-1.456 1.49-1.456V7.332c-1.114 0-1.49-.362-1.49-1.456V4.352C13.51 2.759 12.75 2 11.138 2h-.376v.964h.273c.964 0 1.354.444 1.354 1.538V6.3c0 .984.492 1.497 1.497 1.6z"/>
+</svg>
+        Display All in JSON File</button></a>
      
       </div>
     </div>
